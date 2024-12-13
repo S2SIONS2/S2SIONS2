@@ -1,6 +1,10 @@
-## Hi there 👋 I'm Sion Lee
+# Hi there 👋 I'm Sion Lee
 
-# A Front End Developer
+## A Front End Developer
+
+I aim to write and study code that is easy to read and understand.
+
+Contact: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chasio100@naver.com)](mailto:chasio100@naver.com)  [![tistory Badge](http://img.shields.io/badge/-tistory-000000?style=flat&link=https://deer-develope-diary.tistory.com/)](https://deer-develope-diary.tistory.com/)
 
 💻 Teck Stack 💻
 
