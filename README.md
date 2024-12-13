@@ -4,7 +4,8 @@
 
 I aim to write and study code that is easy to read and understand.
 
-Contact: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chasio100@naver.com)](mailto:chasio100@naver.com) [![tistory Badge](<img src="https://img.shields.io/badge/tistory-000000.svg?style=for-the-badge&logo=tistory&logoColor=000000" />&link=https://deer-develope-diary.tistory.com/)](https://deer-develope-diary.tistory.com/)
+Contact: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chasio100@naver.com)](mailto:chasio100@naver.com) [![Tistory Badge](https://img.shields.io/badge/tistory-000000.svg?style=for-the-badge&logo=tistory&logoColor=white)](https://deer-develope-diary.tistory.com/)
+
 
 💻 Teck Stack 💻
 
