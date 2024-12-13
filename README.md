@@ -8,6 +8,9 @@
 📚 Studying 📖
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+
+#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S2SIONS2&show_icons=true&theme=radical)
 <!--
 **S2SIONS2/S2SIONS2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
